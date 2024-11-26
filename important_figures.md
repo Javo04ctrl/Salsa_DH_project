@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+
 ---
 layout: page
 title: Important Figures

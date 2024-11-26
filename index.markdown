@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">

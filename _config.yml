@@ -22,7 +22,7 @@ title: "Salsa: A Digital Exploration of Sound and Society"
 email: jmacha01@uoguelph.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A website dedicated to salsa
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Salsa_DH_project" # the subpath of your site, e.g. /blog
 url: "https://javo04ctrl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

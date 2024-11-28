@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Timeline
 ---
 You can see the timeline here
 <h1>Interactive Salsa Timeline:</h1>

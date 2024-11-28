@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger">
+        <label for="nav-trigger">
+          <span class="menu-icon"></span>
+        </label>
+        <div class="trigger">
+          {% for link in site.pages %}
+            <a href="{{ link.url | relative_url }}" class="page-link">{{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="essay-wrapper">
+    <header class="essay-header">
+      <h1>{{ page.title }}</h1>
+    </header>
+    <article class="essay-content">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+      <ul class="social-media-list">
+        <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+        <li><a href="{{ site.github_url }}">GitHub</a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>

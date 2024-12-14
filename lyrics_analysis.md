@@ -7,8 +7,6 @@ You can see a demo of an analysis here:
 ---
 ## Code 1
 ![Code 1](assets/images/code 1.jpg)
-)
-)
 
 These are the codes I've used so far.
 

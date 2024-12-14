@@ -6,7 +6,7 @@ author: Javier Machado
 You can see a demo of an analysis here:
 ---
 ## Code 1
-![Code 1](assets/images/![Code 1](assets/images/code 1.jpg)
+![Code 1](assets/images/code 1.jpg)
 )
 )
 

@@ -4,7 +4,6 @@ title: Lyrics Analysis
 author: Javier Machado
 ---
 You can see a demo of an analysis here:
----
 ## Code 1
 ![Code 1](assets/images/Code_1.PNG)
 ## Code 2

@@ -6,7 +6,9 @@ author: Javier Machado
 You can see a demo of an analysis here:
 ---
 ## Code 1
-![Code 1]()
+![Code 1](assets/images/![Code 1](https://github.com/user-attachments/assets/86048148-9d78-4fce-b923-db1cb56d3c75 )
+)
+)
 
 These are the codes I've used so far.
 

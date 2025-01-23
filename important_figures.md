@@ -6,7 +6,7 @@ author: Javier Machado
 You can see important Salsa figures here:
 ---
 ## Héctor Lavoe:
-![Héctor Lavoe](assets/images/Hector%20Lavoe%20image.jpg)
+![Héctor Lavoe](assets/images/Hector_Lavoe_Nocopy.PNG)
 [fania.com](https://fania.com/artist/hector-lavoe/)
 
 He was born in 1946 in the city of Ponce, Puerto Rico. Lavoe was known as one of the most important Salsa performers of all time; he collaborated with Willie Colón, producing some of the most famous and acclaimed Salsa Albums such as "Lo Mato," "Vigilante," "Asalto Navideño," "La Gran Fuga." He also released albums as a solo artist, such as "De ti Depende" and "La Voz."

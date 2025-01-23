@@ -11,3 +11,18 @@ A prominent style of Cuban Rumba, represents a couple's dance, symbolizing attra
 
 ## Tres: 
 Cuban string instrument part of the "Son Cubano". It features three pairs of metal strings and is tuned in octaves. Popularized by Nené Manfugás in 1892.
+
+##Maracas:
+
+##Congas:
+
+##Bongós:
+
+##Timbales:
+
+##Güiro:
+
+
+
+
+

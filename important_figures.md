@@ -17,54 +17,75 @@ Lavoe had a difficult life full of substance abuse, infidelities and death. He d
 
 He is now considered a legend, not only in Puerto Rico but also other countries such as Peru.
 
-## Willie Colón
+### 1940s
 
-## Celia Cruz
+## Rafael Ithier  
 
-## La India
+## Tito Puente  
 
-## Yolanda Rivera
+### 1950s
 
-## Albita Rodriguez
+## Ismael Rivera  
 
-## Ruben Blades
+## Cheo Feliciano  
 
-## Johnny Pacheco 
+## Johnny Pacheco  
 
-## Larry Harlow
+## Ray Barretto  
 
-## Ray Baretto
+## Yomo Toro 
 
-## Rafael Ithier
+### 1960s
 
-## Yomo Toro
+## Willie Rosario  
 
-## Cheo Feliciano
+## Larry Harlow  
 
-## Gilberto Santa Rosa
+## Eddie Palmieri  
 
-## Tommy Olivencia
+## Tommy Olivencia  
 
-## Willie Rosario
+## Willie Colón  
 
-## Oscar D'Leon
+## Hector Lavoe  
 
-## Eddie Palmieri
+## Ismael Miranda  
 
-## Tito Puente
+### 1970s
 
-## Jairo Varela
+## Ruben Blades  
 
-## Frankie Ruiz
+## Celia Cruz  
 
-## Lalo Rodriguez
+## Oscar D'Leon  
 
-## Victor Manuelle
+## Joe Arroyo  
 
-## Jerry Rivera
+## Yolanda Rivera  
 
-## Marc Anthony
+## Albita Rodriguez 
 
-## 
+### 1980s
+
+## Frankie Ruiz  
+
+## Eddie Santiago  
+
+## Lalo Rodriguez 
+
+### 1990s
+
+## La India  
+
+## Gilberto Santa Rosa  
+
+## Jerry Rivera  
+
+## Marc Anthony  
+
+## Victor Manuelle  
+
+## Jairo Varela  
+
 
 

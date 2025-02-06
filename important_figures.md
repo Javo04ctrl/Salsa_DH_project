@@ -59,4 +59,12 @@ He is now considered a legend, not only in Puerto Rico but also other countries 
 
 ## Lalo Rodriguez
 
+## Victor Manuelle
+
+## Jerry Rivera
+
+## Marc Anthony
+
+## 
+
 

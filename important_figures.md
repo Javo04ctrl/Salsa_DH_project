@@ -16,3 +16,47 @@ Lavoe had a difficult life full of substance abuse, infidelities and death. He d
 [www.salserisimoperu.com](https://www.salserisimoperu.com/callao-hector-lavoe-monumento-cuerpo-completo-inaugurado-con-exito-salsa-noticia-16-04-2017/)
 
 He is now considered a legend, not only in Puerto Rico but also other countries such as Peru.
+
+## Willie Colón
+
+## Celia Cruz
+
+## La India
+
+## Yolanda Rivera
+
+## Albita Rodriguez
+
+## Ruben Blades
+
+## Johnny Pacheco 
+
+## Larry Harlow
+
+## Ray Baretto
+
+## Rafael Ithier
+
+## Yomo Toro
+
+## Cheo Feliciano
+
+## Gilberto Santa Rosa
+
+## Tommy Olivencia
+
+## Willie Rosario
+
+## Oscar D'Leon
+
+## Eddie Palmieri
+
+## Tito Puente
+
+## Jairo Varela
+
+## Frankie Ruiz
+
+## Lalo Rodriguez
+
+

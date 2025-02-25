@@ -16,6 +16,9 @@ Rumba Columbia - Rumberos de Cuba
 
 ## Guaguanco:
 Guaguancó is the most expressive and socially charged variant of the rumba. It is characterized by the game of seduction between a male and a female dancer (or the lead and the follower), in which the lead tries to “vaccinate” the follower through pelvic movements and the follower responds with gestures of evasion. This style reflects the resistance and popular identity in Cuban culture. (  to Gandía, 1976)
+<div class="video-container">
+    <iframe src=""https://www.youtube.com/embed/gJVT_5swkhA?si=cZm_TOPC-TWuKRhV" frameborder="0" allowfullscreen></iframe>
+</div>
 Rumba Guaguancó -  "El Solar de los 6" - Casa de Amado - La Habana 2011
 
 ## Yambú:

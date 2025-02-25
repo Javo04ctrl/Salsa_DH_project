@@ -9,7 +9,7 @@ Rumba is a musical genre and dance of Afro-Cuban origin that emerged in Solares 
 ## Columbia:
 Columbia is a variant of Afro-Cuban rumba, in which the main dancer competes with the drummers through fast and acrobatic movements. Traditionally, it is performed only by men and has a strong improvisational component. (  to Boggs, 1987)
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/watch?v=W4aMl4HpKIQ" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/W4aMl4HpKIQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Rumba Columbia - Rumberos de Cuba

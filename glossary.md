@@ -17,16 +17,22 @@ Rumba Columbia - Rumberos de Cuba
 ## Guaguanco:
 Guaguancó is the most expressive and socially charged variant of the rumba. It is characterized by the game of seduction between a male and a female dancer (or the lead and the follower), in which the lead tries to “vaccinate” the follower through pelvic movements and the follower responds with gestures of evasion. This style reflects the resistance and popular identity in Cuban culture. (  to Gandía, 1976)
 <div class="video-container">
-    <iframe src=""https://www.youtube.com/embed/gJVT_5swkhA?si=cZm_TOPC-TWuKRhV" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/gJVT_5swkhA?si=cZm_TOPC-TWuKRhV" frameborder="0" allowfullscreen></iframe>
 </div>
 Rumba Guaguancó -  "El Solar de los 6" - Casa de Amado - La Habana 2011
 
 ## Yambú:
 Yambú is the slowest form of rumba and is associated with a more leisurely and reflective dance, imitating the dignity and wisdom of older dancers. It differs from guaguancó in that it does not incorporate seductive gestures; instead, its atmosphere is more contemplative and traditional. (Gandía, 1976)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/KMGaWp621FU?si=fDrTG2qpNqutipLc" frameborder="0" allowfullscreen></iframe>
+</div>
 Rumba Yambú - "El Solar de los 6" - Cultura de Cuba - Case de Amado, La Habana
 
 ## Tres:
 The tres is a string instrument typical of Cuba, similar to a small guitar but with three pairs of double strings. It is fundamental in the Cuban son, as it provides the harmonic and rhythmic base that would later influence the structure of salsa. (Gandía, 1976)
+<div class="video-container">
+    <iframe src="https://youtube.com/embed/Ham7BWlKuDY?si=8q2SFNHJL0Q-ruzQ" frameborder="0" allowfullscreen></iframe>
+</div>
 Probando como suena mi Tres Cubano - Renesito Avich
 
 ## Maracas:

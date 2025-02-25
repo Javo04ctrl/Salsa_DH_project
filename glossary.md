@@ -37,30 +37,51 @@ Probando como suena mi Tres Cubano - Renesito Avich
 
 ## Maracas:
 Maracas are percussion instruments of indigenous origin, made from dried gourds filled with seeds or pebbles. In Caribbean music and in salsa, they are used to keep time and to provide a characteristic timbre that complements other percussion instruments. ( Ariza, 2022)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/Hrhkn4QqhXs?si=6wS0vS50icB0CShK" frameborder="0" allowfullscreen></iframe>
+</div>
 Maracas Solo / Demo - Advanced Techniques - Meinl Percussion
 
 ## Congas:
 Congas, also called tumbadoras, are cylindrical drums of African origin, with a leather head, which are played with the hands. They are essential in salsa, as they establish the groove and allow for rhythmic improvisations that define the sound identity of the genre. (Gandía, 1976; Boggs, 1987)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/sJOWVNErmAI?si=qmr4ESxOj7IxXbIm" frameborder="0" allowfullscreen></iframe>
+</div>
 CONGAS - PATRON BASICO PARA CUMBIA COLOMBIANA
 
 ## Bongos:
 Bongos are small drums of Afro-Cuban origin, consisting of two joined drums. They are played with the hands and are responsible for setting precise and energetic rhythmic patterns, complementing the congas in salsa percussion. (Ariza, 2022)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/n9eTxwx8Xi0?si=bli5IRZmdQG3gqK_" frameborder="0" allowfullscreen></iframe>
+</div>
 Bongos:  ritmo de Son / Salsa.  (Nivel medio-alto)
 
 ## Timbales:
 Timbales are metallic percussion instruments, played with drumsticks, which provide a dry and bright sound. In salsa, they have a prominent role in the performance of solos and in the definition of rhythmic sections, contributing to the dynamics and energy of the ensemble. (Gandía, 1976)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/5Hph6kdkL2s?si=_Ipq5aXrYMucSC5y" frameborder="0" allowfullscreen></iframe>
+</div>
 Solo de timbal "Timbalero" - El gran combo de Puerto Rico
 
 ## Güiro
 The güiro is a percussion instrument of indigenous origin, made from a gourd with grooves that are scraped with a stick. Its harsh, scratchy sound is used to mark the beat and add rhythmic texture to the music, and is fundamental in salsa and other Caribbean genres. (Ariza, 2022)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/uJI4SbEFuOY?si=Uyy_cgGkES7W8Tw8" frameborder="0" allowfullscreen></iframe>
+</div>
 LP | Cuban Style Guiro (LP249)
 
 ## Cuatro:
 The cuatro is a string instrument of Puerto Rican origin, similar to a small guitar, with four pairs of double strings. It has been an important symbol in Latin music, and in salsa it is used to provide melodic and rhythmic lines that complement percussion and singing. (Gandía, 1976)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/OcoO72_ZLIM?si=E5opwKTL2QKa8skR&amp;start=55" frameborder="0" allowfullscreen></iframe>
+</div>
 Larry Harlow   Descarga Yomo Toro
 
 ## Bomba:
 Bomba is a musical genre and dance of Afro-Puerto Rican origin, where percussion (especially the drum) plays a central role and the dance involves a game of power and seduction. Traditionally, bomba has been a space for resistance and expression of Afro identity, serving as a cultural banner for Afro-descendant communities in Puerto Rico and in the diaspora. (  to Rivera, 2024)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/7gXe1cd5Avg?si=MNLUlCrnFUknKWsL" frameborder="0" allowfullscreen></iframe>
+</div>
 Bomba en Loiza, Puerto Rico
 
 ## Plena:
@@ -68,18 +89,30 @@ La plena is a Puerto Rican musical genre known as “the sung newspaper” becau
 
 ## Danzón:
 Danzón is a musical and dance genre originating in Cuba that evolved from the contradanza. It is known for its elegance and formal structure, and was very popular in dance halls before the rise of salsa. Danzón laid the foundation for later fusions and the rhythmic evolution that culminated in Cuban son and salsa. (Gandía, 1976)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/JRU977zarcY?si=mu_PJ_FJ5fPI-5hH" frameborder="0" allowfullscreen></iframe>
+</div>
 Rutina Masiva de Danzón "Nereidas"
 
 ## Cencerro:
 The cencerro is a metallic percussion instrument that is struck with a drumstick to mark rhythmic patterns. It is widely used in salsa and other Afro-Caribbean genres, standing out in montuno sections and timbales solos. (Ariza, 2022)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/nDpN_M63G5c?si=NwuWbOnoqWwq0LpB" frameborder="0" allowfullscreen></iframe>
+</div>
 COMO TOCAR LA CAMPANA(COWBELL) EN SALSA
 
 ## Contrabajo:
 The Contrabajo is the instrument responsible for the bass line in salsa, providing the harmonic and rhythmic basis of the songs. Its interpretation is based on the “tumbao” pattern, a syncopated style that maintains the clave structure. (Gandía, 1976; Manuel, 1991)
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/nyMIsVWcO5U?si=N5LXceLvE8o_ik_M" frameborder="0" allowfullscreen></iframe>
+</div>
 Técnica y estilo salsa en el Contrabajo.
 
 ## Boogaloo:
 Boogaloo is a musical genre that emerged in New York in the 1960s, fusing Latin rhythms with elements of R&B and soul. It is characterized by its festive energy and its ability to mix diverse cultural influences, being a precursor of salsa and representing the creativity and adaptability of the Latino community in the United States. (Manuel, 1991; Waxer, 2000)}
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/DEjN42FW2sU?si=Te9uPQaygxQxEq-K" frameborder="0" allowfullscreen></iframe>
+</div>
 Pete Rodríguez - I Like It Like That (Audio Oficial)(Famous example of Boogaloo song)
 
 ## Salsa Consciente:
@@ -90,6 +123,9 @@ The moña is a musical section in salsa where the wind instruments play short, r
 
 ## Pregón:
 The pregón is a style of improvised singing, based on the tradition of street vendors in the Caribbean. In salsa, singers often use pregones in the montuno section to interact with the audience and backing singers. (Gandía, 1976) 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/GO_M3fIg31w?si=S0qKh5Sfz3msiFI-" frameborder="0" allowfullscreen></iframe>
+</div>
 homenaje oscar d´leon  jose alberto el canario salsa luvier ga as(My favourite example of pregones, Oscar D’Leon and his friend el Canario improvise and show their friendship on stage)
 
 ## Planchao:

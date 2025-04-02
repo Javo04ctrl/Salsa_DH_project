@@ -216,7 +216,7 @@ His breakthrough came with Otra Nota (1993), followed by hits like "Vivir lo Nue
 Víctor Manuelle (1968 - Present)
 Víctor Manuelle, "El Sonero de la Juventud," is a Puerto Rican salsa singer and songwriter born in Añasco, Puerto Rico. Discovered by Gilberto Santa Rosa, he began his career singing with salsa legends like Domingo Quiñones, Cheo Feliciano, and Eddie Santiago.
 His 1993 debut album, Justo a Tiempo, launched a string of gold and platinum records, including A Pesar de Todo and Ironías. Known for hits like "Dile A Ella", Manuelle has dominated Billboard charts, won multiple awards, and remains one of salsa’s most celebrated modern soneros.
-(SalsaBlvd | Victor Manuelle | Biography. https://www.salsablvd.com/biographies/victor-manuelle.htm. Accessed 25 Feb. 2025.
+(SalsaBlvd | Victor Manuelle | Biography. [https://www.salsablvd.com/biographies/victor-manuelle.htm](https://www.salsablvd.com/biographies/victor-manuelle.htm). Accessed 25 Feb. 2025.
 )
 
 

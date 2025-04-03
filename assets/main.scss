@@ -4,17 +4,24 @@
 /* load _sass/minima.scss */
 @import "{{ site.theme }}";
 
-/* Put any custom CSS here */
+/* Base style */
 body {
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   font-weight: 300;
-  color: #000000; /* Black for main text */
-  background-color: #fff3cd; /* Light gold background for whole site */
+  color: #000000;
+  background-color: #ffe082; /* Slightly stronger gold for page margins */
+}
+
+/* Containing the main site content */
+.wrapper {
+  background-color: #fff3cd; /* Light gold for the content area */
+  padding: 2rem;
+  margin: auto;
 }
 
 /* Header background */
 .site-header {
-  background-color: #fff3cd; /* Light gold */
+  background-color: #fff3cd;
 }
 
 /* Site title */
@@ -24,25 +31,26 @@ body {
 
 /* Navigation links */
 .site-nav .page-link {
-  color: #d32f2f !important; /* Salsa red */
+  color: #d32f2f !important;
 }
 
 .site-nav .page-link:hover {
-  color: #b71c1c !important; /* Darker red on hover */
+  color: #b71c1c !important;
 }
 
-/* Optional footer tweak */
+/* All links */
+a {
+  color: #d32f2f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b71c1c;
+  text-decoration: underline;
+}
+
+/* Optional: Footer background matches layout */
 .site-footer {
-  background-color: #fff3cd; /* Match header or leave default */
-  color: #000000;
-}
-
-.site-nav .page-link:hover {
-  color: #b71c1c !important; /* Darker red on hover */
-}
-
-/* Optional footer tweak */
-.site-footer {
-  background-color: #fff3cd; /* Match header or leave default */
+  background-color: #fff3cd;
   color: #000000;
 }

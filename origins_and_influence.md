@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: page
 title: Origins and Influence
 ---
 Origins and Influence:

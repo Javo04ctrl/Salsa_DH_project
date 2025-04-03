@@ -7,16 +7,22 @@ For the Analysis of the lyrics of the songs in the dataset, I needed a tool that
 I used this tool to test Spanish text with a simple Spanish sentence about Salsa.
 
 ## Test Sentence.PNG
-![Rest_Sentence.PNG](assets/images/Test_Sentence.PNG)
+![Test_Sentence.PNG](assets/images/Test_Sentence.PNG)
 For this simple sentence, I noticed that some of the results were accurate, but others weren’t at all.
 
 
-## Code 2
-![Code 1](assets/images/Code_2.PNG)
-These are the codes I've used so far.
+## Words test
+![Words test](assets/images/Words_test)
+Some words were noted as proper names when they weren’t; some were labelled as nouns when they were in reality verbs. this means that I couldn’t trust SpaCy with a pertinent analysis because it seemed to show some biases towards English and Spanish and mixed the meaning of the words of both languages.
+That can be appreciated with words such as “era” which is a verb but is categorized as a noun, maybe referring to the word “era” as division of time. Another example is the word “un” which is an indefinite article but is recognized as a proper name, probably referring to the “UN” as United Nations.
 
-Take into account that this is a demo, the dataset is not complete, nor the entire analysis process, for now, the sentiment analysis seems vague and suspiciously positive; maybe the library will change over time to one that works better with Spanish, 
-## Data Visualization 1
+I decided to create a word cloud with all the lyrics of the songs in the dataset. After a thoughtful reflection I decided to include the following stopwords:
+## Stopwords.PNG
+![Stopwords.PNG](assets/images/Stopwords.PNG)
+
+Which are words that if not excluded, appear too often and most of them are not keywords nor contribute to a pertinent word cloud about the topic of Salsa. There was a consideration to remove words such as “La-la”, “Le-le”,“Oh-oh”,“Ay” and others but some of those interjections and onomatopeic expressions are relevant for the word cloud in my opinion because those are part of the style of performance of the singers and some of them use those as a signature singing style, so I thought it would be fair to leave them on the word cloud. This decision gives specific identity to some words in the word cloud. Such as the “La-la” and “Le-le” which are for example part of Héctor Lavoe’s style of performing or other words such as “Quimbara” which have African origin and are said by Celia Cruz.
+
+## 
 ![DV 1](assets/images/DV_1.PNG)
 ## Data Visualization 2
 ![DV 2](assets/images/DV_2.PNG)

@@ -7,7 +7,7 @@ For the Analysis of the lyrics of the songs in the dataset, I needed a tool that
 I used this tool to test Spanish text with a simple Spanish sentence about Salsa.
 
 ## Test sentence.PNG
-![Test_Sentence.PNG](assets/images/Test_Sentence.PNG)
+![Test_sentence.PNG](assets/images/Test_sentence.PNG)
 For this simple sentence, I noticed that some of the results were accurate, but others weren’t at all.
 
 

@@ -3,9 +3,14 @@ layout: page
 title: Lyrics Analysis
 author: Javier Machado
 ---
-You can see a demo of an analysis here:
-## Code 1
-![Code 1](assets/images/Code_1.PNG)
+For the Analysis of the lyrics of the songs in the dataset, I needed a tool that worked efficiently with the spanish language. The tool that apparently worked is called SpaCy. This tool analizes text word by word and can categorize words into their own category such as nouns, verbes and adjectives as well as define the entity of each word, for example “Héctor Lavoe” PERS..
+I used this tool to test Spanish text with a simple Spanish sentence about Salsa.
+
+## Test Sentence.PNG
+![Rest_Sentence.PNG](assets/images/Test_Sentence.PNG)
+For this simple sentence, I noticed that some of the results were accurate, but others weren’t at all.
+
+
 ## Code 2
 ![Code 1](assets/images/Code_2.PNG)
 These are the codes I've used so far.

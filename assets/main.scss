@@ -1,15 +1,38 @@
 ---
 ---
+
 /* load _sass/minima.scss */
- @import "{{ site.theme }}";
+@import "{{ site.theme }}";
+
 /* Put any custom CSS here */
 body {
- font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
- font-weight: 300;
- color: #373710;
- }
- 
-.site-title {
-   color: #E91E63 !important;
- }
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 300;
+  color: #000000; /* Black for main text */
+  background-color: #fff8e1; /* Optional: very light gold background */
+}
 
+/* Header background */
+.site-header {
+  background-color: #fff3cd; /* Light gold */
+}
+
+/* Site title */
+.site-title {
+  color: #FFD700 !important; /* Gold */
+}
+
+/* Navigation links */
+.site-nav .page-link {
+  color: #d32f2f !important; /* Salsa red */
+}
+
+.site-nav .page-link:hover {
+  color: #b71c1c !important; /* Darker red on hover */
+}
+
+/* Optional footer tweak */
+.site-footer {
+  background-color: #fff3cd; /* Match header or leave default */
+  color: #000000;
+}

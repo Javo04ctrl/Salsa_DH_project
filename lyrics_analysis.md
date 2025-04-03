@@ -47,7 +47,7 @@ With this information in mind, I decided to just look which artists had more son
 Willie Colón and Héctor Lavoe being the ones with the most songs, made sense because they had songs with eachother as well as songs by themselves. An observation that surprised me is that the next one is Marc Anthony. That surprised me because it shows a shif in time, taking into account that both Willie Colón and Héctor Lavoe released their songs in the 1970s and 1980s and the Marc Anthony released his songs in the 2000s.
 
 ## Top 10 Artists with Saddest Songs.PNG
-![Top 10_Artists with Saddest Songs.PNG](assets/images/Top_10_in_Artists_with_Saddest_Songs.PNG)
+![Top_10_Artists_with_Saddest_Songs.PNG](assets/images/Top_10_in_Artists_with_Saddest_Songs.PNG)
 
 The Artist with the most sad songs is Gilberto Santa Rosa, followed by Héctor Lavoe, Willie Colón, Marc Anthony and Frankie Ruiz.
 

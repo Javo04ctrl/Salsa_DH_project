@@ -16,7 +16,8 @@ Rafael Ithier, Bandleader, Pianist and founder of El Gran Combo de Puerto Rico i
 
 ## Tito Puente (1923 - 2000)
 
-Known as the King of Timbal, Tito Puente is one of the most important figures in Salsa and Latin Music. His influence in popular culture is still present. Born in 1923 in New York in a Puerto Rican Household, he started developing his music talent from a very young age and his contributions to Latin Jazz and Afro-Cuban and his innovative style of playing the timbal separated him from the other timbal players and is recognised as one of the best timbal players of all time because of that.[Marintaya Vol II No 10001 | Tito Puente | Biography] [https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001](https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001). Accessed 25 Feb. 2025.
+Known as the King of Timbal, Tito Puente is one of the most important figures in Salsa and Latin Music. His influence in popular culture is still present. Born in 1923 in New York in a Puerto Rican Household, he started developing his music talent from a very young age and his contributions to Latin Jazz and Afro-Cuban and his innovative style of playing the timbal separated him from the other timbal players and is recognised as one of the best timbal players of all time because of that.
+[Marintaya Vol II No 10001 | Tito Puente | Biography] [https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001](https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001). Accessed 25 Feb. 2025.
 
 ### 1950s
 

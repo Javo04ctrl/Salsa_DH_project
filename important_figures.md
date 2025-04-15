@@ -12,19 +12,18 @@ You can see important Salsa figures here:
 
 Rafael Ithier, Bandleader, Pianist and founder of El Gran Combo de Puerto Rico is a legend of Salsa. Born in 
 1926 in Rio Piedras, Puerto Rico. Ithier was passionate about music since his childhood. He never studied formally any instrument but was an innate musician. In 1962 he founded El Gran Combo de Puerto Rico and since then he has been active in the music industry, he has released over 57 albums and 27 compilations. He is considered one of the most important figures in Salsa and one of the longest musical careers.
-(SalsaBlvd | Rafael Ithier | Biography. http://www.salsablvd.com/biographies/rafael-ithier.htm. Accessed 16 Jan. 2025.
+[SalsaBlvd | Rafael Ithier | Biography](http://www.salsablvd.com/biographies/rafael-ithier.htm). Accessed 16 Jan. 2025.
 
 
 ## Tito Puente (1923 - 2000)
 
-Known as the King of Timbal, Tito Puente is one of the most important figures in Salsa and Latin Music. His influence in popular culture is still present. Born in 1923 in New York in a Puerto Rican Household, he started developing his music talent from a very young age and his contributions to Latin Jazz and Afro-Cuban and his innovative style of playing the timbal separated him from the other timbal players and is recognised as one of the best timbal players of all time because of that. (“Marintaya Vol II No 10001.” ResearchGate, https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001. Accessed 25 Feb. 2025.
-)
+Known as the King of Timbal, Tito Puente is one of the most important figures in Salsa and Latin Music. His influence in popular culture is still present. Born in 1923 in New York in a Puerto Rican Household, he started developing his music talent from a very young age and his contributions to Latin Jazz and Afro-Cuban and his innovative style of playing the timbal separated him from the other timbal players and is recognised as one of the best timbal players of all time because of that. [Marintaya Vol II No 10001 | Tito Puente | Biography](https://www.researchgate.net/publication/341105725_Marintaya_Vol_II_No_10001). Accessed 25 Feb. 2025.
 ### 1950s
 
 ## Ismael Rivera  
 Ismael Rivera, known as "El Sonero Mayor", was one of the greatest improvisers in Latin music. Born on October 5, 1931, in Loíza Aldea, Puerto Rico, he showed musical talent from a young age. He and his childhood friend Rafael Cortijo formed Cortijo y su Combo, revolutionizing bomba and plena. Rivera’s ability to improvise lyrics earned him international recognition.
 After legal troubles led to the band’s breakup, he later formed Ismael Rivera y sus Cachimbos, modernizing traditional rhythms. His legacy lives on through his timeless salsa hits. He passed away on May 13, 1987.
-(SalsaBlvd | Ismael Rivera | Biography. https://www.salsablvd.com/biographies/ismael-rivera.htm. Accessed 25 Feb. 2025.)
+- [SalsaBlvd | Ismael Rivera | Biography](https://www.salsablvd.com/biographies/ismael-rivera.htm). Accessed 25 Feb. 2025.
 ## Cheo Feliciano
 José "Cheo" Feliciano (1935 - 2014)
 Cheo Feliciano, a legendary salsa and bolero singer, was born on July 3, 1935, in Ponce, Puerto Rico. He moved to New York at 17, starting as a percussionist before becoming the lead vocalist of the Joe Cuba Sextet, recording hits like "El Ratón" and "El Pito". After a brief hiatus, he returned with Cheo (1972), featuring "Anacaona". He later recorded with Fania Records and launched Coche Records. His 1999 album "Una Voz, Mil Recuerdos" paid tribute to Latin music legends. Feliciano remains an icon of Latin music.

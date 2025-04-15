@@ -91,7 +91,6 @@ Known for his brass-heavy sound and fusion of swing and melody, Olivencia releas
 Willie Colón (1950 - Present)
 Willie Colón, a Bronx-born trombonist, composer, and salsa pioneer, is one of the most influential figures in Latin music. Born William Anthony Colón Román to Puerto Rican grandparents, he fused Afro-Caribbean rhythms with socially conscious lyrics, shaping modern salsa and Latin jazz.
 With over 10 million records sold, he collaborated with icons like Rubén Blades, Héctor Lavoe, and Celia Cruz, earning 11 Grammy nominations. His hits, including "Atrapado", reflect themes of urban struggle and cultural identity. Beyond music, Colón remains a political activist and humanitarian.
-
 [SalsaBlvd | Willie Colón | Biography] [https://www.salsablvd.com/biographies/willie-colon.htm](https://www.salsablvd.com/biographies/willie-colon.htm). Accessed 25 Feb. 2025.)
 
 ## Hector Lavoe  
@@ -194,8 +193,7 @@ His breakthrough came with Otra Nota (1993), followed by hits like "Vivir lo Nue
 Víctor Manuelle (1968 - Present)
 Víctor Manuelle, "El Sonero de la Juventud," is a Puerto Rican salsa singer and songwriter born in Añasco, Puerto Rico. Discovered by Gilberto Santa Rosa, he began his career singing with salsa legends like Domingo Quiñones, Cheo Feliciano, and Eddie Santiago.
 His 1993 debut album, Justo a Tiempo, launched a string of gold and platinum records, including A Pesar de Todo and Ironías. Known for hits like "Dile A Ella", Manuelle has dominated Billboard charts, won multiple awards, and remains one of salsa’s most celebrated modern soneros.
-(SalsaBlvd | Victor Manuelle | Biography. [https://www.salsablvd.com/biographies/victor-manuelle.htm](https://www.salsablvd.com/biographies/victor-manuelle.htm). Accessed 25 Feb. 2025.
-)
+ [SalsaBlvd | Victor Manuelle | Biography] [https://www.salsablvd.com/biographies/victor-manuelle.htm](https://www.salsablvd.com/biographies/victor-manuelle.htm). Accessed 25 Feb. 2025.)
 
 
 

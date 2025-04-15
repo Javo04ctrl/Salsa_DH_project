@@ -192,7 +192,6 @@ His 1993 debut album, Justo a Tiempo, launched a string of gold and platinum rec
 )
 
 
-## Jairo Varela  
 
 
 

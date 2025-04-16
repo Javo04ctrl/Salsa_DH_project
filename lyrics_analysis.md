@@ -49,4 +49,5 @@ Willie Colón and Héctor Lavoe being the ones with the most songs, made sense b
 
 The Artist with the most sad songs is Gilberto Santa Rosa, followed by Héctor Lavoe, Willie Colón, Marc Anthony and Frankie Ruiz.
 ![Top_10_Artists_with_more_positive_songs.PNG](assets/images/Top_10_Artists_with_more_positive_songs.PNG)
+
 The artists with more positive songs are tied but it´s interesting that Héctor Lavoe is both on the saddest and more positive tops, it reflects the versatility of the artist.

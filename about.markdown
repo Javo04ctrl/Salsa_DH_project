@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Welcome to this DH Project!"
+title: "About"
 author: Javier Machado
 ---
-
+### Welcome to this DH Project!
 This project is an intersection between music, sociology and digital humanities. Salsa is not only a musical genre but also a movement with cultural and social weight, and the digital humanities in this project are perceived as the format of delivering this project.
 
 The objectives for this project are several, but one of the main ones is to raise awareness about the syncretism and influence of African culture in this musical genre — especially for a Western demographic that may not be aware of the roots of Salsa music and its origins that reflect a strong history touched by power, resilience, resistance, as well as joy and celebration.

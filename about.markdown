@@ -1,10 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "Welcome to this DH Project!"
+author: Javier Machado
 ---
 
-This project is an intersection between music, sociology and digital humanities. Salsa is not only a musical genre but also a movement with cultural and social weight, and the digital humanities in this project are perceived as the format of delivering this project. The objectives for this project are several, but one of the main objectives is to raise awareness about the syncretism and influence of African culture in this musical genre, especially for a Western demographic that may not be aware of the roots of Salsa music and its origins that reflect a strong history touched by power, resilience, resistance as well as joy and celebration. Salsa is an example of syncretism; it is typically the combination of Latin culture with African and also Occidental characteristics, the project will highlight that topic diving deep into the influence of African Culture in an essay format, the section will be called “Origins and Influence” analyzing words such as Aguanile, Quimbara and Ché Ché Colé as well as an analysis of the lyrics of salsa songs and their origins and sociological influence and impact. The project will also take a data analysis approach with the sentiment analysis of 100 Salsa song lyrics taken from Spotify’s Salsa Classics playlist dataset, which includes the most essential Salsa songs according to Spotify’s algorithms, and their content will be analyzed from their most used words and topics to their general sentiment and visualizations reflecting that analysis. The project will be available as a static website and will also include other sections, such as “Important figures,” “Timeline,” and “Glossary,” all of them with the purpose of giving further context to what is Salsa as a movement more than just the musical genre.
-The value of this project resides in the interactive space that it will provide; it will include a timeline with images, videos and audio, a detailed glossary with words that are usually part of the Salsa’s lexicon and an “important figures” section that will focus on significant salsa figures and their biography and impact in Salsa, including names such as: Héctor Lavoe, Celia Cruz, Ruben Blades, Willie Colon, Ismael Rivera and Frankie Ruiz, who all became symbols each one representing their own merit and style inside the Salsa movement. The project is currently being developed with Jekyll, a static website generator and has already a prototype for several sections, as well as GitHub, which will be a tool to make the website public.
+This project is an intersection between music, sociology and digital humanities. Salsa is not only a musical genre but also a movement with cultural and social weight, and the digital humanities in this project are perceived as the format of delivering this project.
 
+The objectives for this project are several, but one of the main ones is to raise awareness about the syncretism and influence of African culture in this musical genre — especially for a Western demographic that may not be aware of the roots of Salsa music and its origins that reflect a strong history touched by power, resilience, resistance, as well as joy and celebration.
+
+Salsa is an example of syncretism; it is typically the combination of Latin culture with African and Occidental characteristics. The project will highlight this through a dedicated section called *“Origins and Influence,”* which will include analysis of words like *Aguanile*, *Quimbara* and *Ché Ché Colé*, as well as a deep dive into the lyrics of salsa songs and their sociological meaning.
+
+The project will also take a data analysis approach with the sentiment analysis of 100 salsa lyrics taken from Spotify’s *Salsa Classics* playlist. The analysis will focus on word frequencies, common themes, and emotional sentiment, and will be visualized with charts and graphs.
+
+The site will include the following sections:
+- *Important Figures*
+- *Timeline*
+- *Glossary*
+
+Each section aims to give context to salsa as a movement, not just a genre. The timeline will feature images, video, and audio. The glossary will explain common terms in the salsa lexicon. And the *Important Figures* section will present key artists such as Héctor Lavoe, Celia Cruz, Rubén Blades, Willie Colón, Ismael Rivera, and Frankie Ruiz — each representing a unique voice and impact on the movement.
+
+The project is built with Jekyll and hosted on GitHub Pages. A prototype is already in development.
 

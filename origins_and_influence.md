@@ -73,42 +73,47 @@ To conclude, Salsa is the blend of several musical styles, stories, and experien
 
 
 
-Works Cited
 
-[https://www.usmint.gov/american-women-quarters-2024-rolls-and-bags-celia-cruz-MASTER_AWQCC.html](https://www.usmint.gov/american-women-quarters-2024-rolls-and-bags-celia-cruz-MASTER_AWQCC.html). Accessed 1 Apr. 2025.)
+## Works Cited
 
-[https://www.heraldousa.com/entretenimiento/2021/10/13/asi-fue-el-dia-que-celia-cruz-desairo-a-fidel-castro-y-al-che-guevara-video/](https://www.heraldousa.com/entretenimiento/2021/10/13/asi-fue-el-dia-que-celia-cruz-desairo-a-fidel-castro-y-al-che-guevara-video/).)
+*“American Women Quarters 2024 Rolls and Bags - Celia Cruz.”* US Mint, [https://www.usmint.gov/american-women-quarters-2024-rolls-and-bags-celia-cruz-MASTER_AWQCC.html](https://www.usmint.gov/american-women-quarters-2024-rolls-and-bags-celia-cruz-MASTER_AWQCC.html). Accessed 1 Apr. 2025.
 
-[https://www.tandfonline.com/doi/full/10.1080/17442222.2020.1785615](https://www.tandfonline.com/doi/full/10.1080/17442222.2020.1785615). Accessed 31 Mar. 2025.)
+*“Así fue el día que Celia Cruz desairó a Fidel Castro y al ‘Che’ Guevara VIDEO.”* Heraldo USA, 13 Oct. 2021, [https://www.heraldousa.com/entretenimiento/2021/10/13/asi-fue-el-dia-que-celia-cruz-desairo-a-fidel-castro-y-al-che-guevara-video/](https://www.heraldousa.com/entretenimiento/2021/10/13/asi-fue-el-dia-que-celia-cruz-desairo-a-fidel-castro-y-al-che-guevara-video/).
 
-[https://puertoricoismusic.org/bomba-y-plena-de-puerto-rico/](https://puertoricoismusic.org/bomba-y-plena-de-puerto-rico/). Accessed 20 Jan. 2025.)
+*“¡Azúcar!: Celia Cruz and Black Diasporic Feminist Interjection: Latin American and Caribbean Ethnic Studies: Vol 16, No 1.”* [https://www.tandfonline.com/doi/full/10.1080/17442222.2020.1785615](https://www.tandfonline.com/doi/full/10.1080/17442222.2020.1785615). Accessed 31 Mar. 2025.
 
-[https://manglar.uninorte.edu.co/calamari/handle/10738/157](https://manglar.uninorte.edu.co/calamari/handle/10738/157).)
+*“Bomba y Plena: Nuestra Herencia Africana.”* prismusic. Puerto Rico Is Music!, 20 Jan. 2025, [https://puertoricoismusic.org/bomba-y-plena-de-puerto-rico/](https://puertoricoismusic.org/bomba-y-plena-de-puerto-rico/).
 
-[https://www.womenshistory.org/education-resources/biographies/celia-cruz](https://www.womenshistory.org/education-resources/biographies/celia-cruz). Accessed 31 Mar. 2025.)
+Boggs, Vernon W. *Salsa: funciones latentes de la esclavitud y el racismo.* Dec. 1987. manglar.uninorte.edu.co, [https://manglar.uninorte.edu.co/calamari/handle/10738/157](https://manglar.uninorte.edu.co/calamari/handle/10738/157).
 
-[https://www.youtube.com/watch?v=UlGMYsWs6jc](https://www.youtube.com/watch?v=UlGMYsWs6jc).)
+*“Celia Cruz.”* National Women’s History Museum, [https://www.womenshistory.org/education-resources/biographies/celia-cruz](https://www.womenshistory.org/education-resources/biographies/celia-cruz). Accessed 31 Mar. 2025.
 
-[https://www.youtube.com/watch?v=u4PjyP4NYuw](https://www.youtube.com/watch?v=u4PjyP4NYuw).)
+*“Drumming Workshop for Kids: Learn a New Song from West Africa, Ghana.”* Directed by Blacktown Arts, 2021. YouTube, [https://www.youtube.com/watch?v=UlGMYsWs6jc](https://www.youtube.com/watch?v=UlGMYsWs6jc).
 
-[https://www.youtube.com/watch?v=Rg4aB78TixU](https://www.youtube.com/watch?v=Rg4aB78TixU).)
+Gandía, Nicolás Ramos. *Historia de la Salsa, desde las raíces hasta el 1976 y un poco más allá.* 1976.
 
-[https://www.cibercuba.com/lecturas/ignacio-pinerio-y-la-historia-de-echale-salsita](https://www.cibercuba.com/lecturas/ignacio-pinerio-y-la-historia-de-echale-salsita). Accessed 23 Mar. 2025.)
+*Héctor Lavoe - La Fama (Letra Oficial).* Directed by Fania Records, 2021. YouTube, [https://www.youtube.com/watch?v=u4PjyP4NYuw](https://www.youtube.com/watch?v=u4PjyP4NYuw).
 
-[https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/inventing-salsa](https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/inventing-salsa). Accessed 23 Mar. 2025.)
+*Héctor Lavoe - Rompe Saraguey.* Directed by Fania Records, 2014. YouTube, [https://www.youtube.com/watch?v=Rg4aB78TixU](https://www.youtube.com/watch?v=Rg4aB78TixU).
 
-[https://elpais.com/elpais/2017/09/27/eps/1506463517_150646.html](https://elpais.com/elpais/2017/09/27/eps/1506463517_150646.html).)
+Hernández, Myriam Teresa Waked, et al. *Ritmos musicales de las diferentes regiones de Colombia.*
 
-[https://aventurecolombia.com/es/los-bailes-y-ritmos-preferidos-por-los-colombianos/](https://aventurecolombia.com/es/los-bailes-y-ritmos-preferidos-por-los-colombianos/).)
+*“Ignacio Piñeiro y la historia de Échale salsita.”* CiberCuba, [https://www.cibercuba.com/lecturas/ignacio-pinerio-y-la-historia-de-echale-salsita](https://www.cibercuba.com/lecturas/ignacio-pinerio-y-la-historia-de-echale-salsita). Accessed 23 Mar. 2025.
 
-[https://medium.com/the-brothers/salsa-is-more-african-than-all-black-american-musical-forms-99ac5a8025ea](https://medium.com/the-brothers/salsa-is-more-african-than-all-black-american-musical-forms-99ac5a8025ea).)
+*Inventing Salsa.* [https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/inventing-salsa](https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/inventing-salsa). Accessed 23 Mar. 2025.
 
-[https://gladyspalmera.com/coleccion/el-diario-de-gladys/phidias-contado-por-el-mismo/](https://gladyspalmera.com/coleccion/el-diario-de-gladys/phidias-contado-por-el-mismo/).)
+Juliá, Edgardo Rodríguez. *“La salsa vuelve a explotar en Nueva York.”* El País, 27 Sept. 2017, [https://elpais.com/elpais/2017/09/27/eps/1506463517_150646.html](https://elpais.com/elpais/2017/09/27/eps/1506463517_150646.html).
 
-[https://www.nps.gov/articles/000/salsa-is-more-than-salsa.htm](https://www.nps.gov/articles/000/salsa-is-more-than-salsa.htm). Accessed 23 Mar. 2025.)
+*“Los bailes y ritmos preferidos por los colombianos - Aventure Colombia.”* 12 Mar. 2020, [https://aventurecolombia.com/es/los-bailes-y-ritmos-preferidos-por-los-colombianos/](https://aventurecolombia.com/es/los-bailes-y-ritmos-preferidos-por-los-colombianos/).
 
-[https://www.univision.com/famosos/muere-larry-harlow-salsa-pionero](https://www.univision.com/famosos/muere-larry-harlow-salsa-pionero). Accessed 26 Mar. 2025.)
+mauludSADIQ. *“‘Salsa’ Is More African Than All Black-American Musical Forms….”* The Brothers, 15 June 2016, [https://medium.com/the-brothers/salsa-is-more-african-than-all-black-american-musical-forms-99ac5a8025ea](https://medium.com/the-brothers/salsa-is-more-african-than-all-black-american-musical-forms-99ac5a8025ea).
 
-[https://www.udiscovermusic.com/stories/fania-records-story/](https://www.udiscovermusic.com/stories/fania-records-story/). Accessed 13 Jan. 2025.)
+*“Phidias contado por él mismo.”* Radio Gladys Palmera, 11 Jan. 2021, [https://gladyspalmera.com/coleccion/el-diario-de-gladys/phidias-contado-por-el-mismo/](https://gladyspalmera.com/coleccion/el-diario-de-gladys/phidias-contado-por-el-mismo/).
 
-[https://bibliolore.org/tag/willie-colon/](https://bibliolore.org/tag/willie-colon/). Accessed 25 Mar. 2025.)
+*Salsa Is More Than Salsa.* U.S. National Park Service, [https://www.nps.gov/articles/000/salsa-is-more-than-salsa.htm](https://www.nps.gov/articles/000/salsa-is-more-than-salsa.htm). Accessed 23 Mar. 2025.
+
+Univision. *“Muere Larry Harlow, uno de los más influyentes pioneros de la salsa, a los 82 años.”* Univision, [https://www.univision.com/famosos/muere-larry-harlow-salsa-pionero](https://www.univision.com/famosos/muere-larry-harlow-salsa-pionero). Accessed 26 Mar. 2025.
+
+Waring, Charles. *“Fania Records: How A New York Label Took Salsa To The World.”* uDiscover Music, 13 Jan. 2025, [https://www.udiscovermusic.com/stories/fania-records-story/](https://www.udiscovermusic.com/stories/fania-records-story/).
+
+*“Willie Colón.”* Bibliolore, [https://bibliolore.org/tag/willie-colon/](https://bibliolore.org/tag/willie-colon/). Accessed 25 Mar. 2025.
